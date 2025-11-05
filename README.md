@@ -4,5 +4,5 @@ This repository provides the trained models and the test data sets presented in 
 
 The repository is structured as follows:
 
-    `models` contains download scripts for the best models from our paper and a code snippet to perform predictions with these models.
-    `data` contains details about our training data sets as well as a download script for our experimental test data sets (Exp).
+- `models` contains download scripts for the best models from our paper and a code snippet to perform predictions with these models.
+- `data` contains download scripts for our simulated (Sim) and experimental (Exp) test data sets.
